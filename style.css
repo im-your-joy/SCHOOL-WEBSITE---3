@@ -1,0 +1,14 @@
+.moviehead{
+font-size: 20px;
+padding: 6px 20px;
+border-radius: 10px;
+margin-bottom: 15px;
+}
+
+.moviehead i {
+    float:right;
+}
+
+.school_achievements span{
+    color:orange;
+}
